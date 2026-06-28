@@ -1,0 +1,6 @@
+device_category,dependency_score,taiwan_dependency_pct,supply_shock_pct,shortage_onset_days,patient_impact_severity
+Implantables,5,0.233,19.8,69,Critical
+Imaging,5,0.233,19.8,69,High
+Monitoring,4,0.15,12.8,76,High
+Ventilators,4,0.15,12.8,76,Critical
+Diagnostics,3,0.1,8.5,81,Moderate

@@ -1,0 +1,13 @@
+TSMC 2023 Annual Report — Revenue by Platform
+Source: TSMC 2023 Annual Report (investor.tsmc.com)
+
+HPC (High Performance Computing): 43%
+Smartphone: 38%
+IoT: 8%
+Automotive: 6%
+DCE (Digital Consumer Electronics): 2%
+Other: 3%
+
+Notes:
+- HPC is defense-adjacent (GPUs, FPGAs, ASICs used in defense systems)
+- HPC + Automotive = 49% of TSMC revenue most exposed to defense supply chain disruption

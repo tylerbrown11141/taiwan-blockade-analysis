@@ -1,0 +1,25 @@
+Medical Device Categories — Semiconductor Dependency Assessment
+Source: FDA CDRH classifications, Medtronic/Abbott 10-K filings, domain analysis
+
+Top 5 semiconductor-dependent categories:
+1. Implantables (pacemakers, neurostimulators) — embedded microcontrollers, irreplaceable once implanted
+2. Imaging (MRI, CT, ultrasound) — high-performance processors for real-time image reconstruction
+3. Monitoring (ICU monitors, pulse oximeters) — continuous sensor data processing
+4. Ventilators — complex embedded control systems, long manufacturing lead times
+5. Diagnostics (lab analyzers, PCR machines) — precision analog chips for signal processing
+
+--- Medtronic 10-K (Filed 2026-06-18, Period ending 2026-04-24) ---
+Source: SEC EDGAR, CIK 0001613103, mdt-20260424.htm
+
+Key finding: Medtronic explicitly discloses that global semiconductor shortages
+"have previously caused, and may in the future cause, disruptions to our product
+manufacturing supply chain." Components sourced from sole suppliers in some cases.
+No Taiwan-specific sourcing disclosed at this level of detail.
+
+--- Abbott Laboratories 10-K ---
+Source: SEC EDGAR, Abbott Laboratories
+
+Key finding: Abbott discloses dependency on "third-party manufacturers and single
+suppliers" and global supply chain risks for manufacturing. No explicit semiconductor
+or Taiwan mention. Risk disclosure is less specific than Medtronic but confirms
+single-source supplier dependency that would be exposed in a blockade scenario.
