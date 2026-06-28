@@ -30,4 +30,3 @@ Python-based scenario model and interactive dashboard quantifying US semiconduct
 ## Stack
 Python 3.14 · pandas · Plotly · Jupyter
 
-## Author
