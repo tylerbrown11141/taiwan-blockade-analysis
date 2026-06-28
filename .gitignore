@@ -1,0 +1,20 @@
+# Large raw data files
+data/FY2024_097_Contracts_Full_20260610_*.csv
+data/FY2024_097_Contracts_Full_20260606.zip
+
+# macOS junk
+.DS_Store
+data/.DS_Store
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+*-checkpoint
+
+# Test files
+output/chart2_test.html
